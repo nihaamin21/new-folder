@@ -1,0 +1,54 @@
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin : 5px;
+   
+}
+.card{
+    margin: 6px 5px;
+    width: 130px;
+    height: 57px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card-body{
+      padding: 0;
+      align-items: center;
+}
+h3{
+    font-size: 12px;
+    font-weight: 10px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin: 0;
+    font-size: 12px;
+}
+.price{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 4px;
+}
+.main-card{
+    display: flex;
+}
+span{
+    color: grey;
+}
+#hd{
+    color: #de2222;
+}
+.para{
+    margin-top: 20px;
+    width: 110px;
+    align-items: center;
+}
+img{
+    margin:3px -32px 0  0;
+    width: 28px;
+    height: 17px;
+}
